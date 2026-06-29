@@ -1,0 +1,4 @@
+Name: Lakshyajeet
+City: Kota
+Goal: Python Developer
+Status: Learning Python
