@@ -4,7 +4,7 @@ password = input("Enter a password: ")
 # Check 1: Length of password
 length_check = len(password) >= 8
 
-# Check 2: At least one digit
+# Check 2: At least one hslakshajett
 digit_check = False
 for char in password:        # loop through each character
     if char.isdigit():       # check if it's a number
